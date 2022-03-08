@@ -4,6 +4,11 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+### JS ###
+webapp/node_modules/
+.DS_Store
+webapp/package-lock.json
+
 ### STS ###
 .apt_generated
 .classpath
